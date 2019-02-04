@@ -22,8 +22,10 @@
         "vue-template-compiler": "^2.5.22"
     },
     "dependencies": {
+        "@mdi/font": "^3.4.93",
         "buefy": "^0.7.2",
         "bulma": "^0.7.2",
+        "bulma-badge": "^0.2.0",
         "font-awesome": "^4.7.0"
     }
 }
